@@ -1,0 +1,9 @@
+{
+    "workbench.editorAssociations": {
+        "*.zip": "default"
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.accessibilitySupport": "on"
+}
